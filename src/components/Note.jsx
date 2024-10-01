@@ -19,12 +19,13 @@ function Note(props) {
     <div className="note">
       <h1>{props.title}</h1>
       <p>{props.content}</p>
-      <button onClick={handleUpdateClick} className="update-button">
-        <EditIcon />
-      </button>
       <button onClick={handleDeleteClick} className="delete-button">
         <DeleteIcon />
       </button>
+      <button onClick={handleUpdateClick} className="update-button">
+        <EditIcon />
+      </button>
+
     </div>
   );
 }
