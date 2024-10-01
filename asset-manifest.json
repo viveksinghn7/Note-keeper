@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/NoteKeeper/static/js/main.5f94fd81.js",
+    "main.js": "/NoteKeeper/static/js/main.21b43b8c.js",
     "index.html": "/NoteKeeper/index.html",
-    "main.5f94fd81.js.map": "/NoteKeeper/static/js/main.5f94fd81.js.map"
+    "main.21b43b8c.js.map": "/NoteKeeper/static/js/main.21b43b8c.js.map"
   },
   "entrypoints": [
-    "static/js/main.5f94fd81.js"
+    "static/js/main.21b43b8c.js"
   ]
 }
