@@ -173,7 +173,7 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
     padding: 0 8px;
     margin: 0;
   }
-  
+
   header {
     margin: auto -8px;
     padding: 5px 8px;
@@ -187,7 +187,7 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
 
   form.create-note .add-button {
     position: absolute;
-    right: 15px;
+    right: 10px;
   }
 
   form.create-note .close-button {
@@ -205,8 +205,8 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
   }
 
   form.create-note .add-button, form.create-note .close-button {
-    width: 35px;
-    height: 35px;
+    width: 50px;
+    height: 50px;
   }
 
   footer {
