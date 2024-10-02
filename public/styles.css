@@ -134,6 +134,10 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
   color: black;
 }
 
+.delete-button, .update-button {
+  border-radius: 7px;
+}
+
 .delete-button:hover, .update-button:hover {
   background-color: #f44336 !important;
   color: black;
@@ -146,7 +150,7 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
 
 
 /* Media Queries */
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   body {
     padding: 0 8px;
   }
@@ -157,6 +161,7 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
   }
 
   form.create-note {
+    border-radius: 25px;
     width: 100%;
     margin: 20px auto;
   }
@@ -181,6 +186,7 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
   }
 
   form.create-note {
+    border-radius: 25px;
     text-align: center;
     padding: 10px;
   }
