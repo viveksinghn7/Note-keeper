@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer>
       <p>Copyright © {year} | Note Keeper</p>
-      <p>Made with ❤️ by Viveksingh Negi using ReactJS</p>
+      <p>Made with <span style={{ color: "#e74c3c" }}>❤</span> by Viveksingh Negi using ReactJS</p>
     </footer>
   );
 }
