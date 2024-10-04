@@ -181,14 +181,14 @@ form.create-note .add-button:hover, form.create-note .close-button:hover {
 
   header {
     margin: auto -8px;
-    padding: 5px 8px;
+    padding: 10px 8px;
     text-align: center;
   }
 
   form.create-note {
     border-radius: 25px;
     text-align: center;
-    padding: 10px;
+    padding: 6px;
   }
 
   form.create-note .add-button {
