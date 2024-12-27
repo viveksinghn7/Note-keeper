@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/NoteKeeper/static/js/main.c15db98f.js",
-    "index.html": "/NoteKeeper/index.html",
-    "main.c15db98f.js.map": "/NoteKeeper/static/js/main.c15db98f.js.map"
+    "main.js": "/Note-keeper/static/js/main.c15db98f.js",
+    "index.html": "/Note-keeper/index.html",
+    "main.c15db98f.js.map": "/Note-keeper/static/js/main.c15db98f.js.map"
   },
   "entrypoints": [
     "static/js/main.c15db98f.js"
